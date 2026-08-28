@@ -10,7 +10,7 @@
 - [x] İndirilen Word dosyalarını iView içinde görüntüleme.
 - [x] İndirilen PowerPoint dosyalarını iView içinde görüntüleme.
 - [x] İndirilen Excel dosyalarını iView içinde görüntüleme.
-- [ ] Diğer uygulamalardan "iView ile Aç" seçeneğiyle belge alma.
+- [x] Diğer uygulamalardan "iView ile Aç" seçeneğiyle belge alma.
 - [ ] Dosyalar uygulamasından sürükleyip bırakarak belge açma.
 - [ ] Erişilebilirlik desteği — VoiceOver, büyük metin ve daha okunabilir arayüz.
 

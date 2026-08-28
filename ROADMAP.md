@@ -10,8 +10,10 @@
 - [ ] İndirilen PowerPoint dosyalarını iView içinde görüntüleme.
 - [ ] Açılan belgeler üzerinde belge düzenleme işlemleri sunma.
 - [ ] Açılan belgelere imza ekleme işlemleri sunma.
+- [ ] Açılan belgelerdeki doldurulabilir form alanlarını tamamlama.
 - [ ] Açılan belgeleri **Dosyalar** uygulamasına kaydetme.
 - [ ] Açılan belgeleri sistem paylaşım seçenekleriyle paylaşma.
+- [ ] Açılan belgeleri iPad'in sistem yazdırma seçenekleriyle yazdırma.
 
 ## Not
 

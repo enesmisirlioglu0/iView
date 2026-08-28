@@ -19,6 +19,13 @@
 - [ ] Parolalı belgeleri açma ve belgeleri parola ile koruma.
 - [ ] Dosyalar uygulamasından sürükleyip bırakarak belge açma.
 - [ ] iPad çoklu görev ekranlarında rahat kullanım.
+- [ ] Diğer uygulamalardan "iView ile Aç" seçeneğiyle belge alma.
+- [ ] Harici klavye kısayolları desteği.
+- [ ] Düzenlenebilir belge metinlerinde bul ve değiştir işlemi.
+- [ ] Düzenlemelerde geri al ve yinele.
+- [ ] Düzenleme yapmadan önce özgün dosyayı koruyan ayrı bir kopya oluşturma.
+- [ ] Belge bilgilerini düzenleme — başlık, yazar veya tarih gibi.
+- [ ] Erişilebilirlik desteği — VoiceOver, büyük metin ve daha okunabilir arayüz.
 
 ## Not
 

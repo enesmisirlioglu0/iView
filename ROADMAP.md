@@ -14,6 +14,11 @@
 - [ ] Açılan belgeleri **Dosyalar** uygulamasına kaydetme.
 - [ ] Açılan belgeleri sistem paylaşım seçenekleriyle paylaşma.
 - [ ] Açılan belgeleri iView'in desteklediği tüm platformlarda sistem yazdırma seçenekleriyle yazdırma.
+- [ ] Kamera ile kağıt belge tarayıp PDF oluşturma.
+- [ ] Görselleri tek bir PDF belgesine dönüştürme.
+- [ ] Parolalı belgeleri açma ve belgeleri parola ile koruma.
+- [ ] Dosyalar uygulamasından sürükleyip bırakarak belge açma.
+- [ ] iPad çoklu görev ekranlarında rahat kullanım.
 
 ## Not
 

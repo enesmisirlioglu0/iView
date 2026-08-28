@@ -13,7 +13,7 @@
 - [ ] Açılan belgelerdeki doldurulabilir form alanlarını tamamlama.
 - [ ] Açılan belgeleri **Dosyalar** uygulamasına kaydetme.
 - [ ] Açılan belgeleri sistem paylaşım seçenekleriyle paylaşma.
-- [ ] Açılan belgeleri iPad'in sistem yazdırma seçenekleriyle yazdırma.
+- [ ] Açılan belgeleri iView'in desteklediği tüm platformlarda sistem yazdırma seçenekleriyle yazdırma.
 
 ## Not
 

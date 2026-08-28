@@ -10,3 +10,4 @@
 - Dosyalar üzerinden seçilen yerel PDF dosyalarını iView içinde açma ve görüntüleme.
 - Dosyalar üzerinden seçilen yerel Word (`.doc` ve `.docx`) dosyalarını iView içinde açma ve görüntüleme.
 - Dosyalar üzerinden seçilen yerel PowerPoint (`.ppt` ve `.pptx`) dosyalarını iView içinde açma ve görüntüleme.
+- Dosyalar üzerinden seçilen yerel Excel (`.xls` ve `.xlsx`) dosyalarını iView içinde açma ve görüntüleme.

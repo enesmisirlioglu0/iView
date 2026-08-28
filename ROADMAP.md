@@ -8,6 +8,7 @@
 - [ ] İndirilen Excel dosyalarını iView içinde görüntüleme.
 - [ ] İndirilen Word dosyalarını iView içinde görüntüleme.
 - [ ] İndirilen PowerPoint dosyalarını iView içinde görüntüleme.
+- [ ] Açılan belgeler üzerinde belge düzenleme işlemleri sunma.
 - [ ] Açılan belgeleri **Dosyalar** uygulamasına kaydetme.
 - [ ] Açılan belgeleri sistem paylaşım seçenekleriyle paylaşma.
 

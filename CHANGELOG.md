@@ -8,3 +8,4 @@
 - Ana, Tablo, Belge, Sunu, PDF ve Eklenti bölümleri için ilk arayüz yapısı.
 - iOS ve macOS için iView uygulama ikonu.
 - Dosyalar üzerinden seçilen yerel PDF dosyalarını iView içinde açma ve görüntüleme.
+- Dosyalar üzerinden seçilen yerel Word (`.doc` ve `.docx`) dosyalarını iView içinde açma ve görüntüleme.

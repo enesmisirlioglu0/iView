@@ -7,7 +7,7 @@
 ## 1. Aşama — Belgeyi Alma ve Görüntüleme Temeli
 
 - [x] İndirilen PDF dosyalarını iView içinde görüntüleme.
-- [ ] İndirilen Word dosyalarını iView içinde görüntüleme.
+- [x] İndirilen Word dosyalarını iView içinde görüntüleme.
 - [ ] İndirilen PowerPoint dosyalarını iView içinde görüntüleme.
 - [ ] İndirilen Excel dosyalarını iView içinde görüntüleme.
 - [ ] Diğer uygulamalardan "iView ile Aç" seçeneğiyle belge alma.

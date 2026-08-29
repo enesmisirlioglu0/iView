@@ -21,6 +21,7 @@
 - [ ] Açılan belgeleri **Dosyalar** uygulamasına kaydetme.
   - Durum notu: Açık PDF, Word, Excel ve PowerPoint belgeleri için özgün içeriği değiştirmeden kopya hazırlayan ve iPadOS'un sistem **Dosyalara Kaydet** ekranını açan akış eklendi. iPad Simulator otomatik testleri veri içeriğini, dosya adını, dosya türünü ve kaynak belgenin değişmediğini doğruladı. Sistem ekranında hedef klasörün seçilip dosyanın oluştuğu uçtan uca jest testi ayrıca doğrulanacak.
 - [ ] Açılan belgeleri sistem paylaşım seçenekleriyle paylaşma.
+  - Durum notu: Açık PDF, Word, Excel ve PowerPoint belgeleri için uygulamanın denetiminde, aynı dosya adı ve türünü koruyan kısa ömürlü bir kopya hazırlanıp iPadOS'un sistem paylaşım arayüzüne veriliyor. iPad Simulator otomatik testleri belge verisini, adı ve türünü; benzersiz geçici kopyalama ile güvenli temizliği doğruladı. Hedef uygulamanın belgeyi gerçekten teslim alması ayrı uçtan uca kontrolde doğrulanacak.
 - [ ] Açılan belgeleri iView'in desteklediği tüm platformlarda sistem yazdırma seçenekleriyle yazdırma.
 - [ ] iPad çoklu görev ekranlarında rahat kullanım.
 - [ ] Harici klavye kısayolları desteği.

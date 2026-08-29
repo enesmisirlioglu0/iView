@@ -11,6 +11,7 @@ iView, önceliği iPad olan; belgeleri tek bir çalışma alanında görüntüle
 - Dosyalar üzerinden seçilen yerel PowerPoint (`.ppt` ve `.pptx`) dosyaları iView içinde açılıp görüntülenebiliyor.
 - Dosyalar üzerinden seçilen yerel Excel (`.xls` ve `.xlsx`) dosyaları iView içinde açılıp görüntülenebiliyor.
 - iPad'de Dosyalar uygulamasından "iView ile Aç" akışıyla gönderilen desteklenen belgeler, iView içindeki uygun bölüme yönlendiriliyor; bu akış PDF ile iPad Simulator'da doğrulandı.
-- PDF, Excel, Word ve PowerPoint dışındaki belge türlerini açma; belge düzenleme, kaydetme, paylaşma ve yazdırma özellikleri henüz geliştirme aşamasındadır.
+- Açık PDF, Word, PowerPoint ve Excel belgeleri için **Dosyalara Kaydet** denetimi; özgün belgeyi ezmeden güvenli bir kopya hazırlayıp iPadOS'un sistem dosya seçicisini açıyor. iPad Simulator otomatik testleri belge verisini, dosya adını, türünü ve kaynak belgenin değişmediğini doğruluyor. Sistem seçicide hedef klasör belirlenip dosyanın oluşması ayrıca uçtan uca doğrulanacak.
+- PDF, Excel, Word ve PowerPoint dışındaki belge türlerini açma; belge düzenleme, paylaşma ve yazdırma özellikleri henüz geliştirme aşamasındadır.
 
 Ayrıntılı geliştirme sırası için [Yol Haritası](ROADMAP.md) dosyasına bakın.

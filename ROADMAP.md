@@ -19,6 +19,7 @@
 ## 2. Aşama — Günlük Dosya Akışı ve iPad Deneyimi
 
 - [ ] Açılan belgeleri **Dosyalar** uygulamasına kaydetme.
+  - Durum notu: Açık PDF, Word, Excel ve PowerPoint belgeleri için özgün içeriği değiştirmeden kopya hazırlayan ve iPadOS'un sistem **Dosyalara Kaydet** ekranını açan akış eklendi. iPad Simulator otomatik testleri veri içeriğini, dosya adını, dosya türünü ve kaynak belgenin değişmediğini doğruladı. Sistem ekranında hedef klasörün seçilip dosyanın oluştuğu uçtan uca jest testi ayrıca doğrulanacak.
 - [ ] Açılan belgeleri sistem paylaşım seçenekleriyle paylaşma.
 - [ ] Açılan belgeleri iView'in desteklediği tüm platformlarda sistem yazdırma seçenekleriyle yazdırma.
 - [ ] iPad çoklu görev ekranlarında rahat kullanım.

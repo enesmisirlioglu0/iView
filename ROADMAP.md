@@ -12,6 +12,7 @@
 - [x] İndirilen Excel dosyalarını iView içinde görüntüleme.
 - [x] Diğer uygulamalardan "iView ile Aç" seçeneğiyle belge alma.
 - [ ] Dosyalar uygulamasından sürükleyip bırakarak belge açma.
+  - Durum notu: Belge sağlayıcısından alma, tür saptama ve güvenli geçici kopyalama hattı iPad Simulator'da otomatik test edildi. Dosyalar uygulamasından iView ekranına yapılan fiziksel sürükleme jesti henüz ayrıca doğrulanmadı.
 - [ ] Erişilebilirlik desteği — VoiceOver, büyük metin ve daha okunabilir arayüz.
 
 ## 2. Aşama — Günlük Dosya Akışı ve iPad Deneyimi

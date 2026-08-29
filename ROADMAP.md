@@ -13,7 +13,8 @@
 - [x] Diğer uygulamalardan "iView ile Aç" seçeneğiyle belge alma.
 - [ ] Dosyalar uygulamasından sürükleyip bırakarak belge açma.
   - Durum notu: Belge sağlayıcısından alma, tür saptama ve güvenli geçici kopyalama hattı iPad Simulator'da otomatik test edildi. Dosyalar uygulamasından iView ekranına yapılan fiziksel sürükleme jesti henüz ayrıca doğrulanmadı.
-- [ ] Erişilebilirlik desteği — VoiceOver, büyük metin ve daha okunabilir arayüz.
+- [x] Erişilebilirlik desteği — VoiceOver, büyük metin ve daha okunabilir arayüz.
+  - Doğrulama: iPad Simulator UI testleri, VoiceOver denetimlerini, dock geçişlerini, dokunma alanlarını, metin kırpılmasını ve en büyük Dynamic Type boyutunu denetledi. PDFKit ve Quick Look'un belge içi sistem denetimleri sonraki belge-odaklı kontrolde ayrıca sınanacak.
 
 ## 2. Aşama — Günlük Dosya Akışı ve iPad Deneyimi
 
